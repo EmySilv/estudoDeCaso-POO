@@ -3,7 +3,7 @@
 Projeto desenvolvido para a disciplina de Object Oriented Programming para gestão de livros de uma biblioteca.
 
 ## Clonar o repositório
-Utilize o comando: git clone git@github.com:EmySilv/estudoDeCaso-POO.git
+Utilize o comando: git clone https://github.com/EmySilv/estudoDeCaso-POO.git
 
 
 ## Configure o banco de dados
